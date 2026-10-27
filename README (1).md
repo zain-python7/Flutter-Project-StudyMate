@@ -14,7 +14,7 @@ Screenshots of the app are in the [screenshots](screenshots/) folder.
 - **Tasks:** subjects, priorities, due dates, filters (Pending, Today, Overdue, Done), swipe to delete
 - **XP and levels:** earn XP for finishing tasks, goals and study sessions, with level-up rewards and ranks
 - **Streaks:** Duolingo-style streak with freeze days, monthly calendar history, activity log and milestones
-- **Study timer:** separate Study and Break timers; pause to take a break and study resumes automatically afterwards
+- **Study timer:** separate study and Break timers; pause to take a break and study resumes automatically afterwards
 - **GPA calculator:** subject cards, credit hours, colored grade chips, live GPA ring and a detailed report
 - **AI Study Buddy:** ask questions or get quizzed on any topic (Google Gemini)
 - **Notes, timetable, exam countdown, subjects and grades, goals, calendar view**
