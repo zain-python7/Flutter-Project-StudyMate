@@ -6,7 +6,7 @@ StudyMate is a gamified student planner built with Flutter. It helps students ma
 
 ## Screenshots
 
-Screenshots of the app are in the [screenshots](screenshots/) folder.
+Screenshots of the app are in the [screenshots](screenshots/) folder
 
 ## Features
 
