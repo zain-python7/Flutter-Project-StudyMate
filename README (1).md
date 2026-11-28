@@ -2,7 +2,7 @@
 
 **Plan Smart. Leearn Better.**
 
-StudyMate is a gamified student planner built with Flutter. It helps students manage tasks, stay consistent with Duolingo-style streaks, focus with a study/break timer, calculate their GPA, and study with an AI buddy powered by Google gemini
+StudyMate is a gamified studemt planner built with Flutter. It helps students manage tasks, stay consistent with Duolingo-style streaks, focus with a study/break timer, calculate their GPA, and study with an AI buddy powered by Google gemini
 
 ## Screenshots
 
